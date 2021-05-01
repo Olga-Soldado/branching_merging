@@ -4,7 +4,8 @@ p{
     color:white;
     text-align: justify;
 }
-div{text-align: justify;
+div{border:white 2px dashed;
+text-align: justify;
     justify-content: left;
     background:black;
     width: 800px;
